@@ -3,3 +3,7 @@ node_modules
 .merlin
 __tests__/**/*.bs.js
 .vscode
+.rts2_cache_cjs
+.rts2_cache_es
+.rts2_cache_umd
+dist
